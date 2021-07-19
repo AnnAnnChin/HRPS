@@ -1,3 +1,3 @@
 # HRPS
 
-HRPS is a Java console-based application to computerize the processes of making hotelreservation, recording of orders and displaying of records. It is solely used by the hotel staff. 
+HRPS is a Java console-based object-oriented design application project to computerize the processes of making hotel reservation, recording of orders and displaying of records.
